@@ -3,7 +3,7 @@
 ### 5 open-source software applications for creative/productive work that I recommmend.
 
 ## 1. Blender
-[Blender](https://www.blender.org/) is a complete 3D animation and asset creation suite. It is highly extensible and customizable out of the box, supporting scripts and add-ons provided by the community. It has a wide range of capabilities, such as modeling, sculpting, animation, video editing/compositing, and even particle simulation, just to name some.
+[Blender](https://www.blender.org/) is a complete 3D animation and asset creation suite. It is highly extensible and customizable out of the box, supporting scripts and add-ons provided by the community. It has a wide range of capabilities besides just modeling, and animation, such as sculpting, video editing/compositing, and advanced physics simulation, just to name a few.
 
 ![Blender 4](https://docs.blender.org/manual/en/latest/_images/getting-started_about_introduction_screenshot.jpg)
 
