@@ -13,16 +13,16 @@
 ![Godot](https://upload.wikimedia.org/wikipedia/commons/e/e3/Godot3.4.png)
 
 ## 3. LibreOffice
-[LibreOffice](https://www.libreoffice.org/) gives you all the functionality of popular office software as seen from companies like Microsoft or Google. You can make documents, spreadsheets, presentations, etc, and it even has cross-compatibility with proprietary formats (such as Microsoft's docx).
+[LibreOffice](https://www.libreoffice.org/) gives you all the functionality of popular office software as seen from companies like Microsoft or Google. You can make documents, spreadsheets, presentations, etc, and it even has cross-compatibility with proprietary formats (such as Microsoft's docx). There are many extensions available to download for LibreOffice that allow you to extend the capabilities of the software.
 
 ![LibreOffice](https://cdn.fosstodon.org/media_attachments/files/110/694/627/646/411/115/original/c72987d48147fe99.png)
 
 ## 4. Krita
-[Krita](https://krita.org/en/) is an excellent digital art program that comes with all the features you'd hope for in drawing software. 
+[Krita](https://krita.org/en/) is an excellent digital art program that comes with all the features you'd hope for in drawing software. The program has a wide variety of brushes, filters, and blend modes out of the box. As with every other program in this list, you can install plugins to extend Krita's functionality and features. 
 
 ![Krita](https://cdn.kde.org/screenshots/krita/splash.png)
 
 ## 5. Inkscape
-[Inkscape](https://inkscape.org/) is a great alternative to programs like Adobe Illustrator for vector graphic design. While it may lack some of the extra features found in programs like Illustrator, it is extremely powerful and intuitively designed for working with curves and shapes.
+[Inkscape](https://inkscape.org/) is a great alternative to programs like Adobe Illustrator for vector graphic design. It is highly powerful and intuitively designed for working with curves and shapes. Inkscape extensions allow you to, as you probably already guessed, extend the functionality of the software even further.
 
 ![Inkscape](https://wiki.inkscape.org/wiki/images/b/b8/Outline_Overlay_Preview.png)
