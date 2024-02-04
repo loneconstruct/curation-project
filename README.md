@@ -3,12 +3,12 @@
 ### 5 open-source software applications for creative/productive work that I recommmend.
 
 ## 1. Blender
-[Blender](https://www.blender.org/) is a complete 3D animation and asset creation suite. It is highly extensible and customizable out of the box, supporting scripts and add-ons provided by the community.
+[Blender](https://www.blender.org/) is a complete 3D animation and asset creation suite. It is highly extensible and customizable out of the box, supporting scripts and add-ons provided by the community. It has a wide range of capabilities, such as modeling, sculpting, animation, video editing/compositing, and even particle simulation, just to name some.
 
 ![Blender 4](https://docs.blender.org/manual/en/latest/_images/getting-started_about_introduction_screenshot.jpg)
 
 ## 2. Godot
-[Godot](https://godotengine.org/) is an advanced game engine that competes with state-of-the-art proprietary game engines such as Unity. It is completely free to use and modify, and there are no licensing or royalty fees. Many highly commercially successful games have been developed using the Godot engine.
+[Godot](https://godotengine.org/) is an advanced game engine that competes with state-of-the-art proprietary game engines such as Unity. It is completely free to use and modify, and there are no licensing or royalty fees, unlike other well-established game engines. Many highly commercially successful games have been developed using the Godot engine.
 
 ![Godot](https://upload.wikimedia.org/wikipedia/commons/e/e3/Godot3.4.png)
 
