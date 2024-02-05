@@ -23,7 +23,7 @@ Now that you hopefully have a better understanding of what open-source software 
 ![LibreOffice](https://cdn.fosstodon.org/media_attachments/files/110/694/627/646/411/115/original/c72987d48147fe99.png)
 
 ## 4. Krita
-[Krita](https://krita.org/en/) is an excellent digital art program that comes with all the features you'd hope for in drawing software. The program has a wide variety of brushes, filters, and blend modes out of the box. As with every other program in this list, you can install plugins to extend Krita's functionality and features. Krita allows you to create real-time adjustment layers, making it a good alternative to photoshop. It even has simple 2D animation capabilties! Krita is a popular program due to its versatility and customizability, so it gets spot number 4 on this list.
+[Krita](https://krita.org/en/) is an excellent digital art program that comes with all the features you'd hope for in drawing software. The program has a wide variety of brushes, filters, and blend modes out of the box—and that's just the tip of the iceberg. As with every other program in this list, you can install plugins to extend Krita's functionality and features. Krita allows you to create real-time adjustment layers, making it a good alternative to photoshop. It even has simple 2D animation capabilties! Krita is a popular program due to its versatility and customizability, so it gets spot 4 on this list.
 
 ![Krita](https://cdn.kde.org/screenshots/krita/splash.png)
 
