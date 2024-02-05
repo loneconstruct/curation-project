@@ -32,6 +32,8 @@ Now that you hopefully have a better understanding of what open-source software 
 
 ![Inkscape](https://wiki.inkscape.org/wiki/images/b/b8/Outline_Overlay_Preview.png)
 
+### This concludes my top 5 list of open-source applications! Hopefully I have inspired you to go download and try some of these programs for yourself!
+
 ### References
 
 - [Official Blender website](https://www.blender.org/)
